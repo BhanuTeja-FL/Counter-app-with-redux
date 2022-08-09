@@ -1,0 +1,10 @@
+.heading {
+  color: red;
+  justify-content: center;
+  align-self: center;
+}
+.head-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
